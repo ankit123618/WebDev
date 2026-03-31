@@ -1,6 +1,6 @@
-# PHP Auth Boilerplate
+# WebDev
 
-This project is a lightweight PHP application with custom routing, a small dependency injection container, session-based authentication, password reset via email, and a MySQL-backed user model.
+This project is a lightweight PHP template for making web applications with custom routing, a small dependency injection container, session-based authentication, password reset via email, and a MySQL-backed user model.
 
 ## Features
 
