@@ -1,0 +1,37 @@
+APP_NAME=project-template
+APP_ICON=
+APP_ENV=development                                       #development\production
+APP_DEBUG=true
+APP_TIMEZONE=Asia/Kolkata
+APP_URL=http://localhost:{APP_PORT}
+APP_PORT=8080
+SERVICES=microservices                                    #microservices|monolithic
+
+
+DB_HOST=127.0.0.1
+DB_USER=ankit   
+DB_NAME=project_template
+DB_PASS=secret
+DB_PORT=3306
+DB_CHARSET=utf-8
+
+MAIL_HOST=smtp.zoho.in
+MAIL_PORT=587
+MAIL_USER=hello@angkulam.com
+MAIL_PASS=secret
+MAIL_FROM=hello@angkulam.com
+MAIL_FROM_NAME={APP_NAME}
+MAIL_ENCRYPTION=tls
+
+LOG_DIR=storage/logs
+LOG_FILE=app.log
+
+API_TOKEN=
+API_SECRET=
+API_BASE_URL=http://localhost:{APP_PORT}/{API_TOKEN}
+API_TIMEOUT=30
+API_RETRY_ATTEMPTS=3
+API_RETRY_DELAY=1000
+API_LOG_LEVEL=info
+
+

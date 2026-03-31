@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^7.0",
+        "vlucas/phpdotenv": "^5.6",
+        "razorpay/razorpay": "^2.9",
+        "pragmarx/google2fa": "^9.0",
+        "endroid/qrcode": "^6.1"
+    }
+}

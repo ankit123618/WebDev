@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" rx="36" fill="#0f172a"/>
+  <rect x="14" y="14" width="132" height="132" rx="28" fill="#1d4ed8"/>
+  <path d="M38 80c14-22 30-33 48-33 17 0 32 8 44 24" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M49 101h62" fill="none" stroke="#bfdbfe" stroke-width="12" stroke-linecap="round"/>
+  <text x="80" y="119" font-size="40" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">PR</text>
+</svg>
